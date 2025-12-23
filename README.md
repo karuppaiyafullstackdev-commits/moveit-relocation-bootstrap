@@ -28,6 +28,4 @@ Just open the `index.html` file in any modern browser — the website will displ
   <img src="./images/desktop-view.png" alt="Move It Website Preview" width="600">
 </p>
 
-> 📌 Replace the image path with your actual screenshot file.
-
 Made as a beginner-friendly Bootstrap project 🚀
